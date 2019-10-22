@@ -28,7 +28,8 @@ VS CODE
 
 (11) Navigate to the routes/index.js file and add an array of objects: 
 
-(12) Navigate to the routes/index.hbs file and update to show the array of objects: 
+(12) Navigate to the routes/index.hbs file and update to show the array of objects: ![add an array of objects to index hbs (loop_array_objects)](https://user-images.githubusercontent.com/35668707/67342121-4ba0de00-f4e6-11e9-8721-12e23fd31428.JPG)
+
 
 WEB BROWSER
 
