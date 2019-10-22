@@ -22,6 +22,7 @@ COMMAND PROMPT
 (9) Start the server with Nodemon with the following command: nodemon
 
 (10) Open in VS code: code . 
+![open in vs code - index hbs (loop_array_objects)](https://user-images.githubusercontent.com/35668707/67342529-41cbaa80-f4e7-11e9-858c-87b0663f00c8.JPG)
 
 
 VS CODE
