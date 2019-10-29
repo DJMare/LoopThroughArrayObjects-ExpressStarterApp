@@ -1,5 +1,5 @@
 # LoopThroughArrayObjects-ExpressStarterApp
-A simple express app that loops through an array of objects using the express starter app. 
+A express app that loops through an array of objects using the express starter app. 
 
 COMMAND PROMPT
 
