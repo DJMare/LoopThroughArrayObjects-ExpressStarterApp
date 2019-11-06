@@ -58,3 +58,17 @@ WEB BROWSER
 
 (13) In your web browser, navigate to localserver:3000 to see changes: ![localhost3000 to see changes](https://user-images.githubusercontent.com/35668707/67342306-b225fc00-f4e6-11e9-9ec5-a86efffe0ba7.JPG)
 
+NODEMON NOTE
+
+Sometimes nodemon crashes in Windows 10 and there is a simple fix:
+
+(1) Open Task manager (press Ctrl+Alt+Delete)
+
+(2) Select the 'Processes tab'
+
+(3) Search for 'Node.js: Server-side JavaScript'
+
+(4) Select it and click on 'End task' button
+
+Now you can run npm start.
+
